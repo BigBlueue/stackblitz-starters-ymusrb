@@ -1,0 +1,12 @@
+// manifest.json
+{
+  "name": "Owlbear Chat and Dice Roller",
+  "description": "A plugin for Owlbear that provides chat functionality and dice rolling capabilities.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
